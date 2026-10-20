@@ -48,7 +48,7 @@ Being explicit here is cheaper than a wrong expectation later.
 
 ## Exit codes
 
-`0` = under the `--gate` ratio; `1` = over it.
+`0` = dead share under `--gate` percent. `1` = over it. `2` = bad input.
 
 ## Install
 
