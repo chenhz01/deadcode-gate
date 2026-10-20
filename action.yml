@@ -1,5 +1,5 @@
 name: deadcode-gate
-description: Quantify how much of the repo is dead, instead of guessing.
+description: Dead code quantifier: measure how much of a repository is dead, instead of guessing. Zero-dependency CLI.
 branding:
   icon: shield
   color: blue
